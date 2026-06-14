@@ -11,6 +11,7 @@
 
 ## Updates
 
+- [June 14, 2026] Experimental eval code released on the [train-dev](https://github.com/davnords/MuM/tree/eval-dev) branch. Code will be merged after further cleanup. Currently just the lightweight matching eval (more coming). This is the main metric used for monitoring our training and guiding our architectural choices. In our experiment, this evaluation strongly correlates with downstream performance.
 - [May 1, 2026] Experimental training code released on the [train-dev](https://github.com/davnords/MuM/tree/train-dev) branch. Code will be merged after further cleanup.
 - [March 4, 2026] Accepted to CVPR26. 
 - [November 22, 2025] Initial release of inference code. 
